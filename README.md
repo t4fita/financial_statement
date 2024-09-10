@@ -72,4 +72,3 @@ This script is a basic example to show how financial data can be fetched and exp
 ## License
 
 This project is licensed under the MIT License.
-```
